@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RestaurantOrderApp.iml" filepath="$PROJECT_DIR$/.idea/RestaurantOrderApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abri-tech-service-registry/abri-tech-service-registry.iml" filepath="$PROJECT_DIR$/abri-tech-service-registry/abri-tech-service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbi_restaurant_order/orderservice.iml" filepath="$PROJECT_DIR$/arbi_restaurant_order/orderservice.iml" />
+    </modules>
+  </component>
+</project>
